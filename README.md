@@ -81,7 +81,7 @@
 ### Тестовые артефакты: 
 
 1. [Теория тестировния](https://github.com/konevaas/theory)
-2. [Техники тест=дизайна](https://github.com/konevaas/design)
+2. [Техники тест-дизайна](https://github.com/konevaas/design)
 3. [Тестовая документация](https://github.com/konevaas/docs)
 4. [Тестирование веб-приложений](https://github.com/konevaas/web)
 5. [Тестирование API](https://github.com/konevaas/api)
